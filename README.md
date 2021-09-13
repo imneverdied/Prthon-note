@@ -1,3 +1,3 @@
 Python-note
 ========
-Python 筆記
+Python 筆記與練習
