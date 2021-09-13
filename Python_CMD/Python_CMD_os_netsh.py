@@ -7,3 +7,4 @@ except:
     print('SMD-4G-02連接失敗')
 
 os.system("pause")
+#
