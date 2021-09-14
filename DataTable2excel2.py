@@ -43,7 +43,6 @@ class DataTable2excel():
 
     def OutExcel(ExcelName):
         try:
-
             excel.save(ExcelName + '.xlsx')
             print('產出 ' + ExcelName + '.xlsx')
         except:
