@@ -5,7 +5,9 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-
+# pip install wheel
+# pip install pandas
+# pip install selenium
 
 options = Options()
 
